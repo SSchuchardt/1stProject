@@ -1,2 +1,5 @@
-THis is a sample document to demonstrate how branching works
+This is a sample document to demonstrate how branching works
 
+the user interface is simple and intiutive...
+
+cheers
